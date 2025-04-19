@@ -39,14 +39,13 @@ It remembers user conversations, stores chat history per user, and responds with
 
 - 🧠 Per-user persistent memory
 - 📩 Triggered via `@mention` (natural feel)
-- ⚙️ Powered by `OpenRouter` using `Mistral-7B-Instruct`
 - 💬 Short, efficient AI responses
 - 🧾 Clean data structure and memory system
 - 🔒 No commands — just pure conversation
 
 ---
 
-## 📌 Why It’s Cool (For Portfolio)
+## 📌 Why It’s Cool
 
 - Custom memory engine with no DB — pure JSON ops
 - Perfect base for smart bots, assistants, or client tools
