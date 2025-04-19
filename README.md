@@ -31,4 +31,16 @@ Remembers your conversations, responds smartly when mentioned, and can even stor
 ## 📦 Project Structure
 - Super Clean Structure 
 
+---
+
+## 📬 Contact Me
+
+[![Discord](https://img.shields.io/badge/Discord-Zoro%20%231337-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/1357257822571855986)
+
+---
+
+> 💻 Grinding for a new laptop.  
+> Like the project? Want a custom tool, bot, or game?  
+> Hit Me Up On Discord
+> **Let’s build something badass.**
 
