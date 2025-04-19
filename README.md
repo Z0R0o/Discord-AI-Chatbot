@@ -1,67 +1,48 @@
-# 🧠 Discord AI Assistant Bot – by Zoro
+<!-- Dark Themed Header -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/66c67b28-1165-4a54-bdf3-17ce50e6d679" alt="banner" width="100%" />
+</p>
 
-A powerful, memory-based Discord AI built using `OpenRouter` + `Mistral 7B`.  
-It remembers user conversations, stores chat history per user, and responds with smart, minimal answers.
-
-![header](https://github.com/user-attachments/assets/66c67b28-1165-4a54-bdf3-17ce50e6d679)
-
----
-
-## ✨ Overview
-
-> Minimal commands. Smart responses. Long-term memory.
-
-### 🧠 Intelligent Replies  
-- Mention the bot, and it replies using Mistral-7B.  
-- Remembers what you say, tracks context.
-
-### 🗂 Per-User Memory System  
-- Every user gets their own chat history stored in `.json`.  
-- Data saved automatically and loaded on next interaction.
+<h1 align="center" style="color:white;">🧠 Discord AI Assistant</h1>
+<p align="center">
+  <b><i>Minimal AI bot that remembers you.</i></b><br>
+  Built using <code>Mistral-7B</code> + <code>OpenRouter</code> with clean memory and zero commands.
+</p>
 
 ---
 
-## 🖼️ Screenshots
+## 🪐 Features
 
-### 🧾 Per-User Data Storage  
-> Clean memory saved per user — long-term context.
-
-![S1](https://github.com/user-attachments/assets/d319fae1-7bcd-4fb9-90b0-baab052a4c26)
-
----
-
-### 🧠 AI Response Test  
-> Sharp, clean replies from Mistral via OpenRouter.
-
-![s2](https://github.com/user-attachments/assets/b81c7fd1-4ee4-4298-af96-05f4a635b438)
+- 🧠 <b>Remembers what you say</b> — conversation memory per user
+- 💬 <b>Talk by @mentioning</b> — no prefix, no clutter
+- 🧾 <b>Pure JSON memory</b> — no DB, no bloat
+- ✨ <b>Minimal, beautiful, expandable</b> design
 
 ---
 
-## 🔥 Features
+## 🖼️ Sneak Peek
 
-- 🧠 Per-user persistent memory
-- 📩 Triggered via `@mention` (natural feel)
-- 💬 Short, efficient AI responses
-- 🧾 Clean data structure and memory system
-- 🔒 No commands — just pure conversation
+> 🗂 **Clean Memory System**  
+Stores memory in per-user JSON files, automatically.
 
----
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d319fae1-7bcd-4fb9-90b0-baab052a4c26" width="80%" />
+</p>
 
-## 📌 Why It’s Cool
+> 🧠 **AI Response Test**  
+Short and smart — no overkill, just brains.
 
-- Custom memory engine with no DB — pure JSON ops
-- Perfect base for smart bots, assistants, or client tools
-- Modular structure, clean expandability
-
----
-
-## 💬 Contact
-
-[![Discord](https://img.shields.io/badge/Contact%20Zoro-Zoro%20%231337-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/1357257822571855986)
-
-> Grinding for a new laptop.  
-> Like what you see? Need a bot, tool, or full-stack system?  
-> **DM me — let’s build something insane.**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b81c7fd1-4ee4-4298-af96-05f4a635b438" width="80%" />
+</p>
 
 ---
 
+## 🧩 Structure
+
+```bash
+📁 ai-assistant/
+│
+├── ai.py          # Handles OpenRouter API calls
+├── memory.py      # Loads / Saves user memory
+└── bot.py         # Discord bot logic
