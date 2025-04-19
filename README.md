@@ -5,7 +5,7 @@
 
 <h1 align="center">🧠 Discord AI Assistant Bot</h1>
 <p align="center">
-  <i>Minimalist AI-powered bot that remembers your conversations and responds intelligently using OpenRouter’s Mistral-7B.</i><br>
+  <i>Minimalist AI-powered bot that remembers your conversations and responds intelligently.</i><br>
   Built by <b>Zoro</b> — designed for clarity, memory, and pure interaction.
 </p>
 
@@ -16,7 +16,7 @@
 - 🤖 @Mention-based replies (no commands required)
 - 🧠 Per-user memory system (stored in JSON)
 - 🔁 Conversation context persistence
-- 💬 Short, clean responses from Mistral-7B via OpenRouter
+- 💬 Short, clean responses
 - ⚙️ Fully modular & easily extensible
 - 📁 Auto-saves memory per user in `/data`
 
@@ -66,6 +66,6 @@ Want your own AI bot, Discord tool, or system built from scratch?
 
 ---
 
-<p align="center"><sub>© 2025 — Crafted with code, delivered with clarity. — Zoro</sub></p>
+<p align="center"><sub>© 2025 — Crafted with brain and coffee. — Zoro</sub></p>
 
 
