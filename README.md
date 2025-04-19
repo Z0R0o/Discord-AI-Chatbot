@@ -1,46 +1,66 @@
-# 🧠 Discord AI Assistant Bot
+# 🧠 Discord AI Assistant Bot – by Zoro
 
-An intelligent Discord bot By Using API `OpenRouter` and `Mistral 7B`.  
-Remembers your conversations, responds smartly when mentioned, and can even stores whole chat data that you do with this bot.
+A powerful, memory-based Discord AI built using `OpenRouter` + `Mistral 7B`.  
+It remembers user conversations, stores chat history per user, and responds with smart, minimal answers.
 
 ---
 
-## Over-view
+## ✨ Overview
+
+> Minimal commands. Smart responses. Long-term memory.
+
+### 🧠 Intelligent Replies  
+- Mention the bot, and it replies using Mistral-7B.  
+- Remembers what you say, tracks context.
+
+### 🗂 Per-User Memory System  
+- Every user gets their own chat history stored in `.json`.  
+- Data saved automatically and loaded on next interaction.
+
+---
+
+## 🖼️ Screenshots
+
+### 🧾 Per-User Data Storage  
+> Clean memory saved per user — long-term context.
+
 ![S1](https://github.com/user-attachments/assets/d319fae1-7bcd-4fb9-90b0-baab052a4c26)
-**example of data storage** in this screen shot i have showed how it stores data for different users
+
+---
+
+### 🧠 AI Response Test  
+> Sharp, clean replies from Mistral via OpenRouter.
 
 ![s2](https://github.com/user-attachments/assets/b81c7fd1-4ee4-4298-af96-05f4a635b438)
-**intelligence test**  showed how it handels questions
-
-
 
 ---
 
-## 🚀 Features
+## 🔥 Features
 
-- 🤖 @Mention-triggered replies
-- 🧠 AI conversation memory (per user)
-- 📝 Remembers everything that you say to bot 
-- ⚙️ API Used :- `OpenRouter` (`Mistral-7B-Instruct`)
-- 💬 Auto-short responses (system message controlled)
-- 💾 Memory saves And Loads Perfectly
-- 💾 Data of each user is stored differently 
-
----
-
-## 📦 Project Structure
-- Super Clean Structure 
+- 🧠 Per-user persistent memory
+- 📩 Triggered via `@mention` (natural feel)
+- ⚙️ Powered by `OpenRouter` using `Mistral-7B-Instruct`
+- 💬 Short, efficient AI responses
+- 🧾 Clean data structure and memory system
+- 🔒 No commands — just pure conversation
 
 ---
 
-## 📬 Contact Me
+## 📌 Why It’s Cool (For Portfolio)
 
-[![Discord](https://img.shields.io/badge/Discord-Zoro%20%231337-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/1357257822571855986)
+- Custom memory engine with no DB — pure JSON ops
+- Perfect base for smart bots, assistants, or client tools
+- Modular structure, clean expandability
 
 ---
 
-> 💻 Grinding for a new laptop.  
-> Like the project? Want a custom tool, bot, or game?  
-> Hit Me Up On Discord
-> **Let’s build something badass.**
+## 💬 Contact
+
+[![Discord](https://img.shields.io/badge/Contact%20Zoro-Zoro%20%231337-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/1357257822571855986)
+
+> Grinding for a new laptop.  
+> Like what you see? Need a bot, tool, or full-stack system?  
+> **DM me — let’s build something insane.**
+
+---
 
