@@ -3,6 +3,8 @@
 A powerful, memory-based Discord AI built using `OpenRouter` + `Mistral 7B`.  
 It remembers user conversations, stores chat history per user, and responds with smart, minimal answers.
 
+![header](https://github.com/user-attachments/assets/66c67b28-1165-4a54-bdf3-17ce50e6d679)
+
 ---
 
 ## ✨ Overview
